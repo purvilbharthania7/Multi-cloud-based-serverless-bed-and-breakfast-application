@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Single Occupancy",
+        "price": "100"
+    },
+    {
+        "id": 2,
+        "name": "King Sized Bed",
+        "price": "300"
+    },
+    {
+        "id": 3,
+        "name": "Queen Sized Bed",
+        "price": "200"
+    },
+    {
+        "id": 4,
+        "name": "Luxury",
+        "price": "500"
+    },
+    {
+        "id": 5,
+        "name": "Family Room",
+        "price": "500"
+    },
+    {
+        "id": 6,
+        "name": "Conference Hall",
+        "price": "1000"
+    }
+]
